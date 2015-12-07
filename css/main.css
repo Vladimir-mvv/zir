@@ -1,38 +1,100 @@
-   .top_menu { 
-    width: 100px; 
-    background: #ccc;
+   .top_inf {
+    width: 1024px; 
     padding: 5px;
-    padding-right: 20px; 
+    padding-right: 5px; 
     border: solid 1px black; 
-    float: left;
-   }
-   .top, .center_inf, .flor {
-    width: 1000px; 
-    padding: 5px;
-    padding-right: 20px; 
-    border: solid 1px black; 
-
     float: clear;
-   
    }
-   .center {
-    width: 1000px; 
+
+	   .top_menu { 
+	    background: #ccc;
+		padding: 5px;
+	    padding-right: 5px; 
+	    border: solid 1px black; 
+	    
+	   }
+
+   .center_inf {
+    width: 1024px; 
+    padding: 5px;
+    padding-right: 5px; 
+    border: solid 1px black; 
+    float: clear;
+   }
+		.center_left {
+	    width: 100px; 
+	    padding: 5px;
+	    padding-right: 5px; 
+	    border: solid 1px black; 
+	    float: left;
+		}   
+		  .menu_contacts{
+		  float: left;
+		  }
+		   .left_menu { 
+			align: left;
+			background: #ccc;
+		    padding: 5px;
+		    padding-right: 5px; 
+		    border: solid 1px black; 
+		    float: left;
+		   }
+
+		.center_center {
+	    width: 600px; 
+	    padding: 5px;
+	    padding-right: 5px; 
+	    border: solid 1px black; 
+	    float: left;
+		}   
+
+			   .foto {
+			    padding: 5px;
+				padding-right: 20px; 
+				border: solid 1px black; 
+				float: right;
+			   }
+
+
+		.center_right {
+	    width: 150px; 
+	    padding: 5px;
+	    padding-right: 5px; 
+	    border: solid 1px black; 
+	    float: left;
+		}   
+
+
+	   .left_menu { 
+		align: left;
+		background: #ccc;
+	    padding: 5px;
+	    padding-right: 5px; 
+	    border: solid 1px black; 
+	    float: left;
+	   }
+
+   .footer_inf {
+    width: 1024px; 
     padding: 5px;
     padding-right: 20px; 
     border: solid 1px black; 
-
     float: clear;
-   
-   }   
-   .footer {
-    width: 1000px; 
-    padding: 5px;
-    padding-right: 20px; 
-    border: solid 1px black; 
-
-    float: clear;
-   
    }
+
+
+   .contacts_inf {
+    width: 150px; 
+    padding: 5px;
+    padding-right: 5px; 
+    border: solid 1px black; 
+	
+	font-family: Times New Roman;
+	font-size: 17px;
+	
+   }
+
+
    
    
    
